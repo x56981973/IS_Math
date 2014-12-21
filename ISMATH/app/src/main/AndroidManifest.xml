@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.theolds.ismath" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".taskone"
+            android:label="GF2 8的乘法与加法" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".tasktwo"
+            android:label="GF2 8的乘法求逆" >
+        </activity>
+        <activity
+            android:name=".taskthree"
+            android:label="100000GF2 8的计算时间测试" >
+        </activity>
+        <activity
+            android:name=".taskfour"
+            android:label="S-BOX的线性分析" >
+        </activity>
+    </application>
+
+</manifest>

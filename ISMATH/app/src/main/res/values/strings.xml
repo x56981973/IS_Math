@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ISMATH</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tasktwo">tasktwo</string>
+    <string name="title_activity_taskthree">taskthree</string>
+    <string name="title_activity_taskfour">taskfour</string>
+
+</resources>

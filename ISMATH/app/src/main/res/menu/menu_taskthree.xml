@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.theolds.ismath.taskthree">
+    <item android:id="@+id/action_taskone" android:title="GF (2)8"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_tasktwo" android:title="求逆"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_taskthree" android:title="100000次测试"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_taskfour" android:title="线性分析"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
